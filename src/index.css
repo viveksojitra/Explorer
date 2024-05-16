@@ -1,0 +1,101 @@
+*{
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+}
+ul,ol{
+  padding: 0;
+}
+img{
+  max-width: 100%;
+  display: block;
+}
+.container{
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2px 2px;
+  display: flex;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  padding: -15px;
+}
+.c-1{
+  width: 8.3333%;
+}
+.c-2{
+  width: 16.6666%;
+}
+.c-3{
+  width: 25%;
+}
+.c-4{
+  width: 33.3333%;
+}
+.c-5{
+  width: 41.6666%;
+}
+.c-6{
+  width: 50%;
+}
+.c-7{
+  width: 58.3333%;
+}
+.c-8{
+  width: 66.6666%;
+}
+.c-9{
+  width: 75%;
+}
+.c-10{
+  width: 83.3333%;
+}
+.c-11{
+  width: 91.6666%;
+}
+.c-12{
+  width: 100%;
+}
+.c-1,.c-2,.c-3,.c-4,.c-5,.c-6,.c-7,.c-8,.c-9,.c-10,.c-11,.c-12{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.d-block{
+  display: block;
+}
+.d-flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+.justify-start{
+  justify-content: flex-start;
+}
+.justify-center{
+  justify-content: center;
+}
+.justify-end{
+  justify-content: flex-end;
+}
+.justify-between{
+  justify-content: space-between;
+}
+.justify-around{
+  justify-content: space-around;
+}
+.justify-evenly{
+  justify-content: space-evenly;
+}
+.align-start{
+  align-items: flex-start;
+}
+.align-center{
+  align-items: center;
+}
+.align-end{
+  align-items: flex-end;
+}
