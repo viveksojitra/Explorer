@@ -1,12 +1,4 @@
 import './App.css'
-import Id from './components/Data/Id';
-import Username from './components/Data/Username';
-import Email from './components/Data/Email';
-import Fullname from './components/Data/Fullname';
-import DOB from './components/Data/DOB';
-import Contact from './components/Data/Contact';
-import Address from './components/Data/Address';
-import Avater from './components/Data/Avatar';
 import UI from './components/UI/UI';
 
 function App() {

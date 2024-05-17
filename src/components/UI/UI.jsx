@@ -1,3 +1,4 @@
+/* eslint-disable react-refresh/only-export-components */
 import "./UI.css"
 import Username from "../Data/Username";
 import Email from "../Data/Email";
